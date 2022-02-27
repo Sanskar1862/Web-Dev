@@ -1,0 +1,25 @@
+h1
+{
+  color:blueviolet !important;
+}
+.centre
+{
+  text-align: center;
+  color:red;
+}
+h3
+{
+  color: blue;
+}
+.Smart
+{
+  text-align: center;
+}
+.centreimage
+{
+  margin:0 auto;
+  display:block;
+}
+h2{
+  background-color: antiquewhite;
+}

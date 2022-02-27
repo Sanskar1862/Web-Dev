@@ -1,0 +1,41 @@
+h1
+{
+    color:green;
+}
+.bigtext
+{
+    font-size:50px;
+}
+#bluething    
+{
+    color:lightblue;
+    font-size:25px;
+}
+.Well
+{
+    margin:50px auto;
+    background-color:lightgreen;
+    height:400px;
+    width:400px;
+    padding:50px;
+    border:5px solid yellow;
+}
+.centre
+{
+    text-align:center;
+}
+.centered
+{
+    margin: 30px;
+    padding: 30px;
+    height:300px;
+    width:300px;
+    background-color:yellow;
+    border: 5px solid black;
+    margin: 0 auto;
+    display:block;
+}
+.bigbox
+{
+background-color: black;
+}
